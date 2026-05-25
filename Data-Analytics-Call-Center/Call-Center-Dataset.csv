@@ -1,0 +1,50 @@
+Call Id,Date,Time,Department,Answered (Y/N),Resolved,Speed of Answer,AvgTalkDuration,Satisfaction rating,Performance rating,SLA Status,Talktime Seconds
+ID0001,01-01-2015,09:12:58,Washing Machine,Y,Y,109,00:02:23,3,Good,Breached,143
+ID0002,01-01-2015,09:12:58,Air Conditioner,Y,N,70,00:04:02,3,Good,Breached,242
+ID0003,01-01-2015,09:47:31,Washing Machine,Y,Y,10,00:02:11,3,Good,Met,131
+ID0004,01-01-2015,09:47:31,Washing Machine,Y,Y,53,00:00:37,2,average,Breached,37
+ID0005,01-01-2015,10:00:29,Toaster,Y,Y,95,00:01:00,3,Good,Breached,60
+ID0006,01-01-2015,10:00:29,Air Conditioner,y,Y,,,,,Breached,0
+ID0007,01-01-2015,10:22:05,Toaster,Y,Y,24,00:03:40,2,average,Breached,220
+ID0008,01-01-2015,10:22:05,Toaster,Y,Y,22,00:00:38,4,Very Good,Breached,38
+ID0009,01-01-2015,11:13:55,Fridge,Y,Y,15,00:06:38,4,Very Good,Met,398
+ID0010,01-01-2015,11:13:55,Television,Y,Y,78,00:01:04,3,Good,Breached,64
+ID0011,01-01-2015,11:15:22,Toaster,N,N,,,,,Breached,0
+ID0012,01-01-2015,11:15:22,Toaster,Y,Y,50,00:00:32,4,Very Good,Breached,32
+ID0013,01-01-2015,11:52:48,Toaster,Y,Y,84,00:03:34,3,Good,Breached,214
+ID0014,01-01-2015,11:52:48,Washing Machine,Y,Y,89,00:05:44,3,Good,Breached,344
+ID0015,01-01-2015,11:55:41,Fridge,Y,Y,48,00:03:47,4,Very Good,Breached,227
+ID0016,01-01-2015,11:55:41,Fridge,Y,Y,63,00:05:26,2,average,Breached,326
+ID0017,01-01-2015,11:57:07,Air Conditioner,Y,Y,45,00:05:32,5,Excellent,Breached,332
+ID0018,01-01-2015,11:57:07,Fridge,N,N,,,,,Breached,0
+ID0019,01-01-2015,12:01:26,Television,N,N,,,,,Breached,0
+ID0020,01-01-2015,12:01:26,Washing Machine,Y,Y,101,00:02:27,3,Good,Breached,147
+ID0021,01-01-2015,12:02:53,Air Conditioner,Y,Y,74,00:05:22,5,Excellent,Breached,322
+ID0022,01-01-2015,12:02:53,Fridge,Y,Y,89,00:05:50,5,Excellent,Breached,350
+ID0023,01-01-2015,12:02:53,Air Conditioner,N,N,,,,,Breached,0
+ID0024,01-01-2015,12:02:53,Air Conditioner,Y,Y,68,00:05:25,2,average,Breached,325
+ID0025,01-01-2015,12:30:14,Television,Y,Y,97,00:04:09,3,Good,Breached,249
+ID0026,01-01-2015,12:30:14,Toaster,N,N,,,,,Breached,0
+ID0027,01-01-2015,12:40:19,Television,Y,Y,39,00:04:00,3,Good,Breached,240
+ID0028,01-01-2015,12:40:19,Washing Machine,Y,Y,51,00:02:34,4,Very Good,Breached,154
+ID0029,01-01-2015,12:40:19,Air Conditioner,Y,Y,106,00:02:09,4,Very Good,Breached,129
+ID0030,01-01-2015,12:40:19,Television,Y,Y,107,00:05:55,3,Good,Breached,355
+ID0031,01-01-2015,13:24:58,Fridge,Y,Y,22,00:05:08,3,Good,Breached,308
+ID0032,01-01-2015,13:24:58,Television,Y,Y,122,00:02:08,4,Very Good,Breached,128
+ID0033,01-01-2015,13:33:36,Air Conditioner,Y,Y,57,00:06:49,3,Good,Breached,409
+ID0034,01-01-2015,13:33:36,Toaster,Y,N,53,00:01:44,2,average,Breached,104
+ID0035,01-01-2015,13:42:14,Television,Y,Y,119,00:01:31,5,Excellent,Breached,91
+ID0036,01-01-2015,13:42:14,Television,N,N,,,,,Breached,0
+ID0037,01-01-2015,13:42:14,Air Conditioner,Y,N,20,00:01:12,2,average,Met,72
+ID0038,01-01-2015,13:42:14,Air Conditioner,Y,Y,52,00:00:36,3,Good,Breached,36
+ID0039,01-01-2015,14:38:24,Washing Machine,Y,Y,74,00:06:41,1,average,Breached,401
+ID0040,01-01-2015,14:38:24,Air Conditioner,Y,Y,49,00:02:29,3,Good,Breached,149
+ID0041,01-01-2015,14:47:02,Air Conditioner,Y,Y,27,00:02:09,5,Excellent,Breached,129
+ID0042,01-01-2015,14:47:02,Washing Machine,Y,Y,100,00:04:54,5,Excellent,Breached,294
+ID0043,01-01-2015,14:47:02,Air Conditioner,Y,Y,45,00:06:21,3,Good,Breached,381
+ID0044,01-01-2015,14:47:02,Toaster,Y,Y,98,00:03:14,5,Excellent,Breached,194
+ID0045,01-01-2015,15:44:38,Fridge,Y,Y,25,00:05:13,5,Excellent,Breached,313
+ID0046,01-01-2015,15:44:38,Washing Machine,N,N,,,,,Breached,0
+ID0047,01-01-2015,17:13:55,Fridge,Y,Y,107,00:02:22,3,Good,Breached,142
+ID0048,01-01-2015,17:13:55,Washing Machine,N,N,,,,,Breached,0
+ID0049,01-01-2015,17:25:26,Air Conditioner,Y,Y,104,00:03:35,5,Excellent,Breached,215
