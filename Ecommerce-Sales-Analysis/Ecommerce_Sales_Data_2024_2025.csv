@@ -1,0 +1,301 @@
+Order ID,Customer Name,Order Date,Order Month,Order Year,Customer Name,Region,City,Category,Sub-Category,Product Name,Quantity,Unit Price,Discount,Sales,Profit,Payment Mode,Profit Margin (%),Discount Amount
+10001,Kashvi Varty,19-10-2024,October,2024,Kashvi Varty,South,Bangalore,Books,Non-Fiction,Non-Fiction Ipsum,2,36294,5,68958.6,10525.09,Debit Card,15.26%,3629.4
+10002,Advik Desai,30-08-2025,August,2025,Advik Desai,North,Delhi,Groceries,Rice,Rice Nemo,1,42165,20,33732,6299.66,Debit Card,18.68%,8433
+10003,Rhea Kalla,04-11-2023,November,2023,Rhea Kalla,East,Patna,Kitchen,Juicer,Juicer Odio,4,64876,20,207603.2,19850.27,Credit Card,9.56%,51900.8
+10004,Anika Sen,23-05-2025,May,2025,Anika Sen,East,Kolkata,Groceries,Oil,Oil Doloribus,5,37320,15,158610,36311.02,UPI,22.89%,27990
+10005,Akarsh Kaul,19-01-2025,January,2025,Akarsh Kaul,West,Pune,Clothing,Kids Wear,Kids Wear Quo,1,50037,10,45033.3,9050.04,Debit Card,20.10%,5003.7
+10006,Vardaniya Jayaraman,06-04-2025,April,2025,Vardaniya Jayaraman,West,Pune,Furniture,Chair,Chair Assumenda,5,40287,15,171219.75,23722.84,Credit Card,13.86%,30215.25
+10007,Drishya Khare,13-10-2023,October,2023,Drishya Khare,West,Mumbai,Clothing,Accessories,Accessories Minima,2,3636,5,6908.4,680.26,Debit Card,9.85%,363.6
+10008,Misha Dua,17-08-2025,August,2025,Misha Dua,North,Lucknow,Books,Biography,Biography Vel,1,15885,10,14296.5,1289.03,Debit Card,9.02%,1588.5
+10009,Arhaan Vala,07-03-2025,March,2025,Arhaan Vala,North,Jaipur,Groceries,Spices,Spices Expedita,1,40834,20,32667.2,3700.89,Credit Card,11.33%,8166.8
+10010,Lavanya Hayer,02-12-2024,December,2024,Lavanya Hayer,West,Goa,Kitchen,Juicer,Juicer Voluptatibus,2,16686,15,28366.2,5703.09,UPI,20.11%,5005.8
+10011,Divyansh Thaman,24-08-2025,August,2025,Divyansh Thaman,North,Lucknow,Kitchen,Cookware Set,Cookware Set Doloremque,2,10761,20,17217.6,4139.82,Credit Card,24.04%,4304.4
+10012,Nishith Kumar,21-05-2024,May,2024,Nishith Kumar,South,Hyderabad,Beauty,Perfume,Perfume Itaque,3,27066,10,73078.2,16216.55,Net Banking,22.19%,8119.8
+10013,Anika Khanna,05-12-2024,December,2024,Anika Khanna,North,Chandigarh,Home Decor,Vase,Vase Ratione,1,53951,5,51253.45,6826.05,Credit Card,13.32%,2697.55
+10014,Amani Acharya,03-12-2023,December,2023,Amani Acharya,East,Patna,Clothing,Women's Wear,Women's Wear Optio,5,23843,0,119215,21029.48,UPI,17.64%,0
+10015,Anay Grewal,25-07-2025,July,2025,Anay Grewal,North,Jaipur,Kitchen,Juicer,Juicer Debitis,2,15444,5,29343.6,5535.44,COD,18.86%,1544.4
+10016,Stuvan Majumdar,13-10-2023,October,2023,Stuvan Majumdar,East,Bhubaneswar,Electronics,Laptop,Laptop Numquam,5,51645,10,232402.5,35657.72,Debit Card,15.34%,25822.5
+10017,Ritvik Ramanathan,24-05-2024,May,2024,Ritvik Ramanathan,South,Hyderabad,Electronics,Smartwatch,Smartwatch Ad,3,52691,15,134362.05,26225.16,UPI,19.52%,23710.95
+10018,Darshit Sharma,07-09-2025,September,2025,Darshit Sharma,South,Chennai,Groceries,Oil,Oil Odio,4,3775,10,13590,1234.71,Net Banking,9.09%,1510
+10019,Sara Chanda,15-06-2024,June,2024,Sara Chanda,East,Patna,Sports,Dumbbells,Dumbbells Soluta,3,16579,20,39789.6,4240.62,Credit Card,10.66%,9947.4
+10020,Gatik Ravi,11-01-2024,January,2024,Gatik Ravi,West,Pune,Books,Textbook,Textbook Inventore,5,36393,5,172866.75,39437.91,Debit Card,22.81%,9098.25
+10021,Jivin Sunder,15-10-2023,October,2023,Jivin Sunder,West,Ahmedabad,Kitchen,Refrigerator,Refrigerator Commodi,1,6574,20,5259.2,580.75,UPI,11.04%,1314.8
+10022,Kashvi Ratti,16-03-2024,March,2024,Kashvi Ratti,North,Lucknow,Groceries,Wheat,Wheat Natus,5,26762,15,113738.5,27267.31,Credit Card,23.97%,20071.5
+10023,Vivaan Goyal,02-11-2023,November,2023,Vivaan Goyal,West,Surat,Books,Comics,Comics Aperiam,1,47699,20,38159.2,8535.56,UPI,22.37%,9539.8
+10024,Nayantara Bhagat,10-07-2025,July,2025,Nayantara Bhagat,East,Ranchi,Beauty,Face Cream,Face Cream Repellat,1,28257,10,25431.3,3959.79,Credit Card,15.57%,2825.7
+10025,Lakshay Ramakrishnan,21-06-2025,June,2025,Lakshay Ramakrishnan,North,Chandigarh,Electronics,Headphones,Headphones Itaque,5,24056,20,96224,20551.56,COD,21.36%,24056
+10026,Dhanush Vaidya,13-01-2024,January,2024,Dhanush Vaidya,South,Chennai,Groceries,Rice,Rice Impedit,2,65756,5,124936.4,19544.76,UPI,15.64%,6575.6
+10027,Kimaya Rege,22-04-2025,April,2025,Kimaya Rege,North,Lucknow,Beauty,Foundation,Foundation Illo,1,8276,0,8276,537.47,Net Banking,6.49%,0
+10028,Anika Wable,12-12-2024,December,2024,Anika Wable,East,Bhubaneswar,Furniture,Table,Table Error,3,731,0,2193,214.1,UPI,9.76%,0
+10029,Kavya Bhatnagar,27-08-2025,August,2025,Kavya Bhatnagar,North,Delhi,Toys,RC Car,RC Car Amet,2,67085,20,107336,22034.77,Net Banking,20.53%,26834
+10030,Adira Seshadri,22-04-2024,April,2024,Adira Seshadri,North,Chandigarh,Groceries,Sugar,Sugar Excepturi,5,79453,15,337675.25,80309.87,Debit Card,23.78%,59589.75
+10031,Zaina Sidhu,07-01-2025,January,2025,Zaina Sidhu,West,Goa,Groceries,Wheat,Wheat Consequuntur,2,25545,10,45981,9818.01,Credit Card,21.35%,5109
+10032,Bhamini Kuruvilla,11-12-2023,December,2023,Bhamini Kuruvilla,North,Jaipur,Sports,Cricket Bat,Cricket Bat Voluptatum,4,76643,5,291243.4,40522.22,UPI,13.91%,15328.6
+10033,Kavya Saran,24-06-2024,June,2024,Kavya Saran,West,Ahmedabad,Furniture,Sofa,Sofa Deleniti,4,60561,20,193795.2,21970.55,Net Banking,11.34%,48448.8
+10034,Mannat Batta,11-07-2025,July,2025,Mannat Batta,East,Guwahati,Toys,RC Car,RC Car Quam,4,19080,20,61056,10008.03,Debit Card,16.39%,15264
+10035,Shayak Bala,31-12-2023,December,2023,Shayak Bala,South,Thiruvananthapuram,Toys,Action Figure,Action Figure Laboriosam,2,48271,20,77233.6,13625.93,Net Banking,17.64%,19308.4
+10036,Hrishita Kumer,08-03-2025,March,2025,Hrishita Kumer,South,Thiruvananthapuram,Beauty,Lipstick,Lipstick Accusantium,4,7232,15,24588.8,4643.94,Credit Card,18.89%,4339.2
+10037,Prisha Gaba,02-12-2024,December,2024,Prisha Gaba,West,Surat,Sports,Dumbbells,Dumbbells Quas,2,78467,0,156934,9444.77,Credit Card,6.02%,0
+10038,Arhaan Gole,19-10-2023,October,2023,Arhaan Gole,North,Lucknow,Sports,Yoga Mat,Yoga Mat Quaerat,4,34124,5,129671.2,8392.19,UPI,6.47%,6824.8
+10039,Shaan Bala,30-09-2025,September,2025,Shaan Bala,East,Ranchi,Toys,Puzzle,Puzzle Assumenda,2,60907,0,121814,24378.77,COD,20.01%,0
+10040,Taran Kala,16-11-2023,November,2023,Taran Kala,North,Lucknow,Kitchen,Refrigerator,Refrigerator Libero,5,9102,10,40959,7785.75,Debit Card,19.01%,4551
+10041,Nitara Hayre,18-09-2024,September,2024,Nitara Hayre,East,Guwahati,Toys,Board Game,Board Game Consequuntur,5,76782,20,307128,47122.1,UPI,15.34%,76782
+10042,Lavanya Tata,01-07-2025,July,2025,Lavanya Tata,North,Amritsar,Toys,Doll,Doll Laborum,5,57559,5,273405.25,26969.18,Debit Card,9.86%,14389.75
+10043,Badal Dada,11-02-2024,February,2024,Badal Dada,West,Surat,Electronics,Camera,Camera A,2,68630,0,137260,16783.04,Net Banking,12.23%,0
+10044,Bhamini Sane,23-10-2024,October,2024,Bhamini Sane,South,Coimbatore,Groceries,Rice,Rice Incidunt,5,64105,20,256420,61655.17,Net Banking,24.04%,64105
+10045,Eva Babu,03-11-2023,November,2023,Eva Babu,East,Guwahati,Books,Textbook,Textbook Consequuntur,2,68202,0,136404,33860.63,Debit Card,24.82%,0
+10046,Prerak Saha,20-11-2023,November,2023,Prerak Saha,West,Pune,Books,Biography,Biography Magni,1,36207,15,30775.95,5230.85,COD,17.00%,5431.05
+10047,Advik Sule,01-10-2025,October,2025,Advik Sule,North,Delhi,Beauty,Perfume,Perfume Quisquam,3,55843,10,150776.1,23835.95,Credit Card,15.81%,16752.9
+10048,Divij Chawla,03-09-2025,September,2025,Divij Chawla,West,Surat,Sports,Tennis Racket,Tennis Racket Sapiente,5,60512,5,287432,41217.09,Credit Card,14.34%,15128
+10049,Nirvaan Ben,22-01-2025,January,2025,Nirvaan Ben,North,Delhi,Toys,Puzzle,Puzzle Dolorem,1,70834,10,63750.6,4232.48,UPI,6.64%,7083.4
+10050,Shlok Dayal,28-04-2024,April,2024,Shlok Dayal,West,Ahmedabad,Clothing,Shoes,Shoes Deleniti,1,33485,0,33485,6131.25,COD,18.31%,0
+10051,Vritika Cherian,04-05-2024,May,2024,Vritika Cherian,East,Patna,Beauty,Perfume,Perfume Rerum,5,8568,5,40698,3935.7,UPI,9.67%,2142
+10052,Eshani Arya,06-05-2025,May,2025,Eshani Arya,East,Ranchi,Furniture,Sofa,Sofa Omnis,4,64645,5,245651,51927.61,UPI,21.14%,12929
+10053,Elakshi Bajwa,02-09-2025,September,2025,Elakshi Bajwa,West,Goa,Books,Biography,Biography Illum,5,12976,0,64880,11967.13,COD,18.45%,0
+10054,Jayant Kala,15-04-2024,April,2024,Jayant Kala,West,Pune,Clothing,Women's Wear,Women's Wear Odio,3,27698,20,66475.2,8946.95,UPI,13.46%,16618.8
+10055,Biju Mannan,09-12-2023,December,2023,Biju Mannan,East,Bhubaneswar,Sports,Tennis Racket,Tennis Racket Ea,2,28261,15,48043.7,10879.68,Debit Card,22.65%,8478.3
+10056,Alisha Sampath,19-05-2024,May,2024,Alisha Sampath,North,Jaipur,Furniture,Bed,Bed Molestias,5,42462,0,212310,11609.02,Net Banking,5.47%,0
+10057,Rhea Krishnamurthy,05-12-2023,December,2023,Rhea Krishnamurthy,East,Patna,Home Decor,Wall Art,Wall Art Excepturi,4,62926,0,251704,40267.43,Credit Card,16.00%,0
+10058,Samarth Chatterjee,16-10-2024,October,2024,Samarth Chatterjee,East,Patna,Toys,Puzzle,Puzzle Ut,4,73473,15,249808.2,56964.33,Net Banking,22.80%,44083.8
+10059,Ojas Konda,09-10-2024,October,2024,Ojas Konda,West,Pune,Furniture,Cabinet,Cabinet Odit,3,29226,15,74526.3,17899.47,Net Banking,24.02%,13151.7
+10060,Heer Saran,16-05-2025,May,2025,Heer Saran,West,Mumbai,Home Decor,Vase,Vase Necessitatibus,2,9860,10,17748,4403.6,Credit Card,24.81%,1972
+10061,Manikya Dar,30-04-2025,April,2025,Manikya Dar,West,Ahmedabad,Sports,Football,Football Eveniet,5,17665,0,88325,17529.47,UPI,19.85%,0
+10062,Azad Kunda,09-04-2024,April,2024,Azad Kunda,South,Chennai,Kitchen,Cookware Set,Cookware Set Nisi,2,13751,15,23376.7,5552.74,Debit Card,23.75%,4125.3
+10063,Drishya Apte,26-01-2025,January,2025,Drishya Apte,West,Pune,Kitchen,Juicer,Juicer Totam,5,11226,10,50517,2567.28,Debit Card,5.08%,5613
+10064,Shray Arya,27-12-2023,December,2023,Shray Arya,West,Pune,Toys,Action Figure,Action Figure Cum,4,70618,5,268348.4,50743.1,COD,18.91%,14123.6
+10065,Ritvik Madan,23-06-2024,June,2024,Ritvik Madan,South,Bangalore,Books,Biography,Biography Nobis,3,37492,15,95604.6,19263.79,UPI,20.15%,16871.4
+10066,Purab Batta,22-06-2024,June,2024,Purab Batta,North,Chandigarh,Kitchen,Juicer,Juicer Vero,2,34997,0,69994,11129.92,COD,15.90%,0
+10067,Purab Krishna,28-05-2025,May,2025,Purab Krishna,West,Surat,Kitchen,Mixer Grinder,Mixer Grinder Recusandae,2,71572,10,128829.6,14012.66,Credit Card,10.88%,14314.4
+10068,Manikya Srinivasan,23-02-2024,February,2024,Manikya Srinivasan,West,Goa,Books,Biography,Biography Ad,5,38936,5,184946,30144.65,COD,16.30%,9734
+10069,Raghav Gara,24-11-2023,November,2023,Raghav Gara,East,Bhubaneswar,Home Decor,Vase,Vase Molestiae,1,19506,0,19506,2911.1,Net Banking,14.92%,0
+10070,Raghav Sabharwal,02-01-2025,January,2025,Raghav Sabharwal,East,Ranchi,Sports,Tennis Racket,Tennis Racket At,5,48227,10,217021.5,52730.72,UPI,24.30%,24113.5
+10071,Tanya Vora,31-08-2024,August,2024,Tanya Vora,South,Bangalore,Sports,Tennis Racket,Tennis Racket Ipsa,3,2697,5,7686.45,387.48,Net Banking,5.04%,404.55
+10072,Mannat Dhaliwal,18-06-2025,June,2025,Mannat Dhaliwal,East,Ranchi,Toys,RC Car,RC Car Eius,4,47678,20,152569.6,13719.94,Debit Card,8.99%,38142.4
+10073,Drishya Korpal,01-04-2025,April,2025,Drishya Korpal,North,Chandigarh,Home Decor,Cushion,Cushion Quis,1,39545,15,33613.25,4294.42,COD,12.78%,5931.75
+10074,Vritika Gade,14-03-2024,March,2024,Vritika Gade,West,Pune,Toys,Puzzle,Puzzle Nesciunt,5,60787,15,258344.75,33333.56,Credit Card,12.90%,45590.25
+10075,Neysa Ganguly,09-12-2024,December,2024,Neysa Ganguly,North,Amritsar,Toys,Action Figure,Action Figure Placeat,1,26035,20,20828,2957.26,Net Banking,14.20%,5207
+10076,Adah Kaul,17-01-2025,January,2025,Adah Kaul,West,Ahmedabad,Clothing,Kids Wear,Kids Wear Aut,5,41865,10,188392.5,36655.65,COD,19.46%,20932.5
+10077,Shalv Subramaniam,04-03-2025,March,2025,Shalv Subramaniam,North,Lucknow,Kitchen,Cookware Set,Cookware Set Libero,4,76576,10,275673.6,39540.52,Net Banking,14.34%,30630.4
+10078,Chirag Hans,10-04-2024,April,2024,Chirag Hans,South,Bangalore,Electronics,Camera,Camera Nostrum,2,33749,20,53998.4,6954.99,COD,12.88%,13499.6
+10079,Saanvi Deshmukh,05-07-2024,July,2024,Saanvi Deshmukh,West,Pune,Kitchen,Refrigerator,Refrigerator Sequi,4,46014,15,156447.6,8166.96,UPI,5.22%,27608.4
+10080,Yakshit Bajwa,17-02-2025,February,2025,Yakshit Bajwa,West,Surat,Beauty,Lipstick,Lipstick At,5,55423,10,249403.5,15673.19,Debit Card,6.28%,27711.5
+10081,Jayan Lall,05-12-2023,December,2023,Jayan Lall,South,Coimbatore,Furniture,Cabinet,Cabinet Nobis,5,5463,5,25949.25,1306.37,Debit Card,5.03%,1365.75
+10082,Kashvi Bakshi,13-12-2024,December,2024,Kashvi Bakshi,South,Hyderabad,Sports,Yoga Mat,Yoga Mat Deserunt,1,4714,0,4714,547.63,COD,11.62%,0
+10083,Myra Goda,20-06-2025,June,2025,Myra Goda,East,Ranchi,Sports,Tennis Racket,Tennis Racket Cupiditate,4,31170,10,112212,22964.29,Debit Card,20.47%,12468
+10084,Jayesh Ramachandran,20-07-2024,July,2024,Jayesh Ramachandran,West,Goa,Home Decor,Vase,Vase Similique,1,8927,20,7141.6,1373.47,COD,19.23%,1785.4
+10085,Hazel Reddy,01-11-2024,November,2024,Hazel Reddy,East,Bhubaneswar,Furniture,Cabinet,Cabinet Natus,1,16256,5,15443.2,1764.79,Credit Card,11.43%,812.8
+10086,Shamik Keer,02-06-2025,June,2025,Shamik Keer,East,Guwahati,Toys,Board Game,Board Game Sequi,2,22240,0,44480,8602.03,UPI,19.34%,0
+10087,Saira Trivedi,29-03-2024,March,2024,Saira Trivedi,West,Goa,Groceries,Oil,Oil Modi,3,62172,0,186516,23035.44,Debit Card,12.35%,0
+10088,Baiju Dube,15-11-2023,November,2023,Baiju Dube,North,Lucknow,Sports,Tennis Racket,Tennis Racket Aperiam,5,39458,5,187425.5,44132.79,COD,23.55%,9864.5
+10089,Ehsaan Butala,25-12-2024,December,2024,Ehsaan Butala,South,Thiruvananthapuram,Books,Comics,Comics Voluptatibus,4,34376,5,130628.8,15353.38,Net Banking,11.75%,6875.2
+10090,Bhavin Toor,26-02-2025,February,2025,Bhavin Toor,West,Mumbai,Clothing,Kids Wear,Kids Wear Ipsa,4,53084,15,180485.6,19220.42,Credit Card,10.65%,31850.4
+10091,Romil Sawhney,08-06-2025,June,2025,Romil Sawhney,East,Guwahati,Beauty,Lipstick,Lipstick Nostrum,3,60656,0,181968,26322.7,Debit Card,14.47%,0
+10092,Mamooty Mannan,29-01-2025,January,2025,Mamooty Mannan,North,Chandigarh,Electronics,Camera,Camera Ipsa,1,73564,15,62529.4,13309.3,Credit Card,21.28%,11034.6
+10093,Reyansh Saraf,11-01-2025,January,2025,Reyansh Saraf,East,Patna,Furniture,Sofa,Sofa Quaerat,5,26060,5,123785,24340.25,UPI,19.66%,6515
+10094,Jayesh Madan,08-01-2025,January,2025,Jayesh Madan,South,Hyderabad,Beauty,Perfume,Perfume Qui,4,72702,5,276267.6,35015.76,Debit Card,12.67%,14540.4
+10095,Kiaan Ranganathan,12-01-2024,January,2024,Kiaan Ranganathan,East,Patna,Electronics,Camera,Camera Temporibus,2,40818,20,65308.8,5824.16,UPI,8.92%,16327.2
+10096,Riya Varughese,31-05-2024,May,2024,Riya Varughese,West,Pune,Groceries,Spices,Spices Reiciendis,3,24183,0,72549,17203.3,Credit Card,23.71%,0
+10097,Yasmin Warrior,17-10-2024,October,2024,Yasmin Warrior,East,Patna,Groceries,Oil,Oil Non,4,19526,15,66388.4,12866.73,Credit Card,19.38%,11715.6
+10098,Vihaan Bhalla,26-11-2023,November,2023,Vihaan Bhalla,West,Mumbai,Books,Fiction,Fiction Nemo,5,54037,0,270185,58810.96,Net Banking,21.77%,0
+10099,Eshani Sani,12-02-2024,February,2024,Eshani Sani,South,Thiruvananthapuram,Sports,Yoga Mat,Yoga Mat Optio,5,63813,0,319065,36797.04,Credit Card,11.53%,0
+10100,Arnav Badami,24-12-2023,December,2023,Arnav Badami,North,Lucknow,Electronics,Mobile,Mobile Harum,3,74680,10,201636,41541.42,Credit Card,20.60%,22404
+10101,Umang Virk,16-06-2025,June,2025,Umang Virk,South,Coimbatore,Clothing,Accessories,Accessories Natus,4,13189,10,47480.4,10986.33,Net Banking,23.14%,5275.6
+10102,Ira Soni,04-11-2024,November,2024,Ira Soni,East,Bhubaneswar,Sports,Dumbbells,Dumbbells Quos,4,1138,10,4096.8,888.13,Credit Card,21.68%,455.2
+10103,Arnav Karpe,14-08-2025,August,2025,Arnav Karpe,East,Ranchi,Furniture,Sofa,Sofa Repudiandae,5,76226,20,304904,22939.07,Credit Card,7.52%,76226
+10104,Hansh Kaul,10-02-2025,February,2025,Hansh Kaul,West,Surat,Toys,Doll,Doll Totam,3,31343,15,79924.65,18762.37,Net Banking,23.48%,14104.35
+10105,Ela Srivastava,17-11-2023,November,2023,Ela Srivastava,North,Lucknow,Home Decor,Lamp,Lamp Pariatur,4,61338,15,208549.2,40557.88,Net Banking,19.45%,36802.8
+10106,Elakshi Sachdev,19-05-2024,May,2024,Elakshi Sachdev,West,Mumbai,Furniture,Table,Table Laudantium,1,8623,20,6898.4,677.28,Debit Card,9.82%,1724.6
+10107,Emir Ramanathan,27-10-2024,October,2024,Emir Ramanathan,South,Chennai,Sports,Dumbbells,Dumbbells Aspernatur,3,41142,5,117254.7,7179.82,Net Banking,6.12%,6171.3
+10108,Prisha Shenoy,08-06-2024,June,2024,Prisha Shenoy,South,Coimbatore,Clothing,Kids Wear,Kids Wear Architecto,5,13088,10,58896,11457.13,Debit Card,19.45%,6544
+10109,Parinaaz Luthra,07-09-2024,September,2024,Parinaaz Luthra,North,Jaipur,Furniture,Bed,Bed Officiis,1,44965,10,40468.5,3617.94,Debit Card,8.94%,4496.5
+10110,Aarna Bandi,05-01-2025,January,2025,Aarna Bandi,West,Goa,Toys,RC Car,RC Car Incidunt,4,28822,10,103759.2,25441.67,Net Banking,24.52%,11528.8
+10111,Rasha Bansal,22-10-2024,October,2024,Rasha Bansal,North,Amritsar,Electronics,Camera,Camera Dignissimos,2,30299,10,54538.2,10554.74,Credit Card,19.35%,6059.8
+10112,Alisha Amble,12-04-2024,April,2024,Alisha Amble,North,Chandigarh,Kitchen,Microwave,Microwave Vero,2,44595,20,71352,5019.37,Net Banking,7.03%,17838
+10113,Aniruddh Ratti,04-10-2023,October,2023,Aniruddh Ratti,South,Coimbatore,Furniture,Table,Table Repudiandae,3,32301,20,77522.4,10882.22,Net Banking,14.04%,19380.6
+10114,Ishita Bajwa,30-11-2023,November,2023,Ishita Bajwa,South,Bangalore,Home Decor,Cushion,Cushion Dignissimos,3,78217,0,234651,18949.32,COD,8.08%,0
+10115,Farhan Sarkar,23-11-2024,November,2024,Farhan Sarkar,South,Chennai,Toys,Board Game,Board Game Earum,5,19154,15,81404.5,8267.53,COD,10.16%,14365.5
+10116,Aniruddh Kothari,15-05-2025,May,2025,Aniruddh Kothari,West,Pune,Kitchen,Juicer,Juicer In,4,25790,20,82528,4856.22,Debit Card,5.88%,20632
+10117,Samar Kumar,10-05-2024,May,2024,Samar Kumar,East,Kolkata,Beauty,Lipstick,Lipstick Soluta,3,78010,10,210627,20117.45,UPI,9.55%,23403
+10118,Ishaan Golla,30-01-2025,January,2025,Ishaan Golla,East,Ranchi,Kitchen,Microwave,Microwave Aperiam,4,8753,5,33261.4,4190.2,UPI,12.60%,1750.6
+10119,Aniruddh Wagle,26-09-2024,September,2024,Aniruddh Wagle,West,Surat,Kitchen,Microwave,Microwave Reiciendis,5,49477,20,197908,38220.91,Credit Card,19.31%,49477
+10120,Nishith Tara,10-01-2025,January,2025,Nishith Tara,South,Coimbatore,Sports,Yoga Mat,Yoga Mat Vel,1,54160,15,46036,9505.54,COD,20.65%,8124
+10121,Yakshit Bakshi,16-05-2025,May,2025,Yakshit Bakshi,South,Thiruvananthapuram,Sports,Football,Football Eum,2,58592,5,111324.8,9680.25,Debit Card,8.70%,5859.2
+10122,Navya Amble,25-04-2025,April,2025,Navya Amble,South,Hyderabad,Electronics,Laptop,Laptop Amet,1,6284,0,6284,888.46,Debit Card,14.14%,0
+10123,Heer Lata,23-06-2025,June,2025,Heer Lata,North,Delhi,Groceries,Spices,Spices Non,4,79276,20,253683.2,28531.58,UPI,11.25%,63420.8
+10124,Jiya Tandon,02-12-2024,December,2024,Jiya Tandon,North,Jaipur,Clothing,Shoes,Shoes Recusandae,3,22072,20,52972.8,2832.75,Net Banking,5.35%,13243.2
+10125,Divyansh Kale,22-11-2024,November,2024,Divyansh Kale,North,Lucknow,Kitchen,Juicer,Juicer Deleniti,1,61175,15,51998.75,10749.96,Debit Card,20.67%,9176.25
+10126,Raunak Raj,03-06-2024,June,2024,Raunak Raj,East,Patna,Books,Fiction,Fiction Necessitatibus,3,53034,15,135236.7,16863.94,Net Banking,12.47%,23865.3
+10127,Mehul Magar,09-02-2025,February,2025,Mehul Magar,North,Lucknow,Groceries,Oil,Oil Laboriosam,3,20304,10,54820.8,8867.14,UPI,16.17%,6091.2
+10128,Gatik Sharma,12-11-2024,November,2024,Gatik Sharma,West,Ahmedabad,Home Decor,Cushion,Cushion Id,3,19607,0,58821,9062.46,UPI,15.41%,0
+10129,Dhanuk Dhar,31-07-2025,July,2025,Dhanuk Dhar,North,Jaipur,Furniture,Table,Table Placeat,1,26827,10,24144.3,4041.1,Credit Card,16.74%,2682.7
+10130,Kavya Varty,07-03-2024,March,2024,Kavya Varty,South,Bangalore,Groceries,Spices,Spices Error,5,31262,15,132863.5,12796.17,Credit Card,9.63%,23446.5
+10131,Ishaan Walia,03-07-2024,July,2024,Ishaan Walia,South,Hyderabad,Electronics,Headphones,Headphones Id,4,61765,5,234707,30160.38,Net Banking,12.85%,12353
+10132,Oorja Sur,22-08-2024,August,2024,Oorja Sur,East,Patna,Clothing,Women's Wear,Women's Wear Ipsa,4,2962,20,9478.4,583.27,Credit Card,6.15%,2369.6
+10133,Dharmajan Lall,01-08-2024,August,2024,Dharmajan Lall,East,Kolkata,Toys,Puzzle,Puzzle Placeat,3,17679,15,45081.45,2373.83,UPI,5.27%,7955.55
+10134,Shanaya Kala,23-01-2024,January,2024,Shanaya Kala,North,Chandigarh,Furniture,Sofa,Sofa Nulla,1,79310,15,67413.5,6655.67,UPI,9.87%,11896.5
+10135,Rati Goel,06-08-2024,August,2024,Rati Goel,South,Chennai,Electronics,Camera,Camera Culpa,4,33270,5,126426,12467.79,Debit Card,9.86%,6654
+10136,Ivan Sarna,24-03-2024,March,2024,Ivan Sarna,West,Mumbai,Toys,Doll,Doll Adipisci,3,35928,5,102394.8,10207.76,Debit Card,9.97%,5389.2
+10137,Akarsh Hayre,26-03-2025,March,2025,Akarsh Hayre,East,Kolkata,Toys,Board Game,Board Game Animi,1,62438,5,59316.1,4810.78,UPI,8.11%,3121.9
+10138,Hrishita Bajaj,18-10-2024,October,2024,Hrishita Bajaj,West,Surat,Furniture,Bed,Bed Accusantium,4,41162,0,164648,22384,Debit Card,13.60%,0
+10139,Prerak Shere,15-01-2025,January,2025,Prerak Shere,East,Guwahati,Electronics,Mobile,Mobile Aspernatur,4,78576,5,298588.8,66122.26,Credit Card,22.14%,15715.2
+10140,Kartik Seth,13-08-2025,August,2025,Kartik Seth,East,Patna,Books,Non-Fiction,Non-Fiction Quae,3,38456,5,109599.6,26199.38,Debit Card,23.90%,5768.4
+10141,Riya Brahmbhatt,29-09-2024,September,2024,Riya Brahmbhatt,South,Hyderabad,Clothing,Kids Wear,Kids Wear Tempora,1,51518,10,46366.2,11129.47,UPI,24.00%,5151.8
+10142,Yuvraj  Bhardwaj,05-12-2023,December,2023,Yuvraj  Bhardwaj,North,Delhi,Electronics,Mobile,Mobile Ea,3,25964,0,77892,7594.54,COD,9.75%,0
+10143,Shamik Buch,20-04-2024,April,2024,Shamik Buch,East,Patna,Furniture,Cabinet,Cabinet Voluptatum,5,38240,5,181640,26909.05,Debit Card,14.81%,9560
+10144,Divij Dara,02-04-2024,April,2024,Divij Dara,South,Hyderabad,Sports,Tennis Racket,Tennis Racket Asperiores,2,40778,0,81556,19814.83,COD,24.30%,0
+10145,Jivin Hans,14-08-2024,August,2024,Jivin Hans,East,Bhubaneswar,Sports,Football,Football Dolores,5,22147,5,105198.25,7812.18,UPI,7.43%,5536.75
+10146,Vaibhav Rattan,13-11-2024,November,2024,Vaibhav Rattan,South,Chennai,Furniture,Table,Table Tenetur,1,48776,15,41459.6,9356.05,UPI,22.57%,7316.4
+10147,Nayantara Kalita,01-01-2024,January,2024,Nayantara Kalita,West,Ahmedabad,Electronics,Smartwatch,Smartwatch Eum,2,74802,15,127163.4,8863.77,Net Banking,6.97%,22440.6
+10148,Shaan Sehgal,14-01-2024,January,2024,Shaan Sehgal,North,Delhi,Kitchen,Mixer Grinder,Mixer Grinder Porro,1,77440,20,61952,5189.49,UPI,8.38%,15488
+10149,Dhruv Garg,14-06-2024,June,2024,Dhruv Garg,East,Ranchi,Kitchen,Juicer,Juicer Reiciendis,1,42881,5,40736.95,3037.21,Net Banking,7.46%,2144.05
+10150,Kavya Lanka,04-03-2024,March,2024,Kavya Lanka,West,Surat,Books,Non-Fiction,Non-Fiction Commodi,4,11205,10,40338,6759.61,UPI,16.76%,4482
+10151,Fateh Tripathi,24-08-2025,August,2025,Fateh Tripathi,North,Jaipur,Toys,Puzzle,Puzzle Repellendus,4,67259,5,255584.2,24050.17,UPI,9.41%,13451.8
+10152,Manikya Bhattacharyya,25-08-2025,August,2025,Manikya Bhattacharyya,South,Coimbatore,Groceries,Spices,Spices Suscipit,3,21886,10,59092.2,14240.48,Net Banking,24.10%,6565.8
+10153,Tiya Mani,11-07-2025,July,2025,Tiya Mani,North,Jaipur,Kitchen,Microwave,Microwave Officiis,3,8844,0,26532,3837.38,UPI,14.46%,0
+10154,Vihaan Loyal,29-12-2023,December,2023,Vihaan Loyal,West,Goa,Kitchen,Cookware Set,Cookware Set Quo,3,32484,5,92579.4,14375.96,COD,15.53%,4872.6
+10155,Ritvik Vyas,12-12-2023,December,2023,Ritvik Vyas,North,Jaipur,Home Decor,Clock,Clock Itaque,2,26027,5,49451.3,8546.38,UPI,17.28%,2602.7
+10156,Ivana Hegde,22-12-2024,December,2024,Ivana Hegde,West,Surat,Beauty,Foundation,Foundation Nihil,4,43826,5,166538.8,17272.57,Credit Card,10.37%,8765.2
+10157,Vardaniya Ramaswamy,07-04-2024,April,2024,Vardaniya Ramaswamy,East,Patna,Toys,Action Figure,Action Figure Enim,1,39221,15,33337.85,2238.25,Debit Card,6.71%,5883.15
+10158,Ela Chakraborty,03-02-2025,February,2025,Ela Chakraborty,North,Lucknow,Toys,RC Car,RC Car In,1,54312,0,54312,10936.17,Net Banking,20.14%,0
+10159,Taimur Tara,21-06-2025,June,2025,Taimur Tara,East,Ranchi,Clothing,Kids Wear,Kids Wear Aliquid,1,15748,0,15748,2754.67,COD,17.49%,0
+10160,Hrishita Chanda,31-07-2024,July,2024,Hrishita Chanda,West,Pune,Electronics,Headphones,Headphones Labore,2,68044,10,122479.2,10609.67,COD,8.66%,13608.8
+10161,Myra Handa,26-09-2025,September,2025,Myra Handa,West,Pune,Home Decor,Clock,Clock Officia,5,8465,0,42325,8053.7,COD,19.03%,0
+10162,Anvi Mammen,22-07-2024,July,2024,Anvi Mammen,East,Patna,Furniture,Sofa,Sofa Dolor,1,63767,20,51013.6,4109.49,COD,8.06%,12753.4
+10163,Shamik Walla,14-09-2024,September,2024,Shamik Walla,East,Patna,Books,Biography,Biography Mollitia,5,43178,0,215890,19440.44,Credit Card,9.00%,0
+10164,Inaaya  Tandon,21-06-2024,June,2024,Inaaya  Tandon,South,Hyderabad,Kitchen,Juicer,Juicer Possimus,5,44801,15,190404.25,16507.93,UPI,8.67%,33600.75
+10165,Shayak Sekhon,21-08-2025,August,2025,Shayak Sekhon,North,Amritsar,Home Decor,Cushion,Cushion Quasi,4,71174,5,270461.2,51178.34,Credit Card,18.92%,14234.8
+10166,Mehul Wable,18-09-2025,September,2025,Mehul Wable,West,Surat,Books,Comics,Comics Ad,2,56852,5,108018.8,15879.48,Debit Card,14.70%,5685.2
+10167,Raghav Samra,01-04-2025,April,2025,Raghav Samra,West,Pune,Furniture,Table,Table Expedita,3,8167,15,20825.85,3866.48,Net Banking,18.57%,3675.15
+10168,Kiara Saha,07-04-2024,April,2024,Kiara Saha,West,Goa,Sports,Dumbbells,Dumbbells Voluptatem,2,59433,10,106979.4,24846.59,Credit Card,23.23%,11886.6
+10169,Yasmin Kamdar,21-03-2024,March,2024,Yasmin Kamdar,South,Bangalore,Groceries,Wheat,Wheat Beatae,3,42341,0,127023,22887.76,COD,18.02%,0
+10170,Inaaya  Walla,28-07-2025,July,2025,Inaaya  Walla,North,Lucknow,Sports,Tennis Racket,Tennis Racket Doloremque,5,23230,10,104535,22068.31,Debit Card,21.11%,11615
+10171,Saira Kapoor,29-06-2024,June,2024,Saira Kapoor,East,Guwahati,Sports,Football,Football Nesciunt,3,39790,0,119370,25753.35,Debit Card,21.57%,0
+10172,Uthkarsh Grewal,29-10-2024,October,2024,Uthkarsh Grewal,North,Delhi,Kitchen,Mixer Grinder,Mixer Grinder Officia,3,15794,15,40274.7,4036,Net Banking,10.02%,7107.3
+10173,Amira Chakraborty,16-01-2025,January,2025,Amira Chakraborty,South,Hyderabad,Clothing,Men's Wear,Men's Wear Quos,1,10635,0,10635,1958.69,UPI,18.42%,0
+10174,Nakul Srivastava,16-04-2025,April,2025,Nakul Srivastava,East,Patna,Toys,Action Figure,Action Figure Dolor,1,64954,10,58458.6,6815.4,COD,11.66%,6495.4
+10175,Saanvi Vasa,28-09-2024,September,2024,Saanvi Vasa,East,Guwahati,Furniture,Bed,Bed Eius,1,47269,20,37815.2,3812.6,Net Banking,10.08%,9453.8
+10176,Ritvik Agarwal,23-12-2023,December,2023,Ritvik Agarwal,North,Jaipur,Beauty,Face Cream,Face Cream Id,5,21181,15,90019.25,4561.6,Credit Card,5.07%,15885.75
+10177,Yasmin Sachdeva,17-06-2024,June,2024,Yasmin Sachdeva,North,Jaipur,Electronics,Camera,Camera At,2,40371,0,80742,17592.37,Debit Card,21.79%,0
+10178,Sara Chaudry,13-11-2024,November,2024,Sara Chaudry,West,Ahmedabad,Toys,Board Game,Board Game Ab,5,18936,10,85212,9790.15,Debit Card,11.49%,9468
+10179,Aarush Vig,21-10-2024,October,2024,Aarush Vig,East,Kolkata,Furniture,Cabinet,Cabinet A,1,44366,20,35492.8,8735.61,UPI,24.61%,8873.2
+10180,Drishya Dasgupta,25-03-2025,March,2025,Drishya Dasgupta,West,Mumbai,Books,Biography,Biography Deserunt,1,54330,0,54330,8921.7,UPI,16.42%,0
+10181,Jayan Sidhu,03-08-2024,August,2024,Jayan Sidhu,South,Chennai,Groceries,Oil,Oil In,4,27952,20,89446.4,11672.93,COD,13.05%,22361.6
+10182,Jivin Kaul,02-08-2024,August,2024,Jivin Kaul,South,Thiruvananthapuram,Clothing,Accessories,Accessories Culpa,5,10007,0,50035,11418.45,UPI,22.82%,0
+10183,Aaina Lalla,02-12-2023,December,2023,Aaina Lalla,East,Ranchi,Home Decor,Lamp,Lamp Exercitationem,2,8172,0,16344,3724.06,Net Banking,22.79%,0
+10184,Aayush Setty,27-02-2025,February,2025,Aayush Setty,East,Bhubaneswar,Electronics,Mobile,Mobile Magnam,5,27145,10,122152.5,24218.26,Credit Card,19.83%,13572.5
+10185,Jivin Cheema,09-10-2024,October,2024,Jivin Cheema,South,Bangalore,Beauty,Perfume,Perfume Neque,4,73974,0,295896,36664.27,Net Banking,12.39%,0
+10186,Ritvik Shah,20-04-2025,April,2025,Ritvik Shah,North,Lucknow,Sports,Cricket Bat,Cricket Bat Delectus,4,36775,5,139745,17301.9,Net Banking,12.38%,7355
+10187,Samiha Halder,03-08-2024,August,2024,Samiha Halder,South,Hyderabad,Kitchen,Cookware Set,Cookware Set Minima,2,8566,15,14562.2,2893.23,Credit Card,19.87%,2569.8
+10188,Emir Subramaniam,23-06-2024,June,2024,Emir Subramaniam,South,Coimbatore,Toys,Puzzle,Puzzle Nulla,2,10036,0,20072,2542.42,Net Banking,12.67%,0
+10189,Lakshay Kari,04-12-2023,December,2023,Lakshay Kari,North,Chandigarh,Furniture,Chair,Chair Veniam,4,33969,10,122288.4,16649.69,UPI,13.62%,13587.6
+10190,Navya Vora,19-10-2023,October,2023,Navya Vora,East,Ranchi,Clothing,Shoes,Shoes Dolores,2,29047,20,46475.2,7880.96,Debit Card,16.96%,11618.8
+10191,Prerak Chakrabarti,22-08-2024,August,2024,Prerak Chakrabarti,East,Patna,Home Decor,Wall Art,Wall Art Quidem,4,15118,15,51401.2,2930.42,Net Banking,5.70%,9070.8
+10192,Vedika Sane,14-05-2025,May,2025,Vedika Sane,East,Bhubaneswar,Sports,Football,Football Architecto,4,24282,10,87415.2,6313.56,Debit Card,7.22%,9712.8
+10193,Khushi Chada,10-10-2023,October,2023,Khushi Chada,South,Thiruvananthapuram,Books,Non-Fiction,Non-Fiction Aliquid,1,57488,20,45990.4,10796.45,Debit Card,23.48%,11497.6
+10194,Mehul Lala,16-08-2024,August,2024,Mehul Lala,West,Surat,Kitchen,Refrigerator,Refrigerator Quibusdam,1,68404,5,64983.8,10469.59,COD,16.11%,3420.2
+10195,Lagan Walla,02-01-2025,January,2025,Lagan Walla,North,Delhi,Furniture,Sofa,Sofa Voluptas,4,27157,15,92333.8,8406.91,Net Banking,9.10%,16294.2
+10196,Manikya Wali,24-08-2024,August,2024,Manikya Wali,West,Ahmedabad,Sports,Yoga Mat,Yoga Mat Nam,1,13561,0,13561,1296.86,Debit Card,9.56%,0
+10197,Hunar Sastry,17-04-2024,April,2024,Hunar Sastry,West,Mumbai,Furniture,Table,Table Iusto,4,72077,10,259477.2,34177.07,Debit Card,13.17%,28830.8
+10198,Tarini Talwar,22-01-2024,January,2024,Tarini Talwar,West,Ahmedabad,Clothing,Accessories,Accessories Aspernatur,3,40130,5,114370.5,17660.94,Net Banking,15.44%,6019.5
+10199,Dharmajan Sampath,20-06-2024,June,2024,Dharmajan Sampath,West,Surat,Furniture,Sofa,Sofa Dolorum,2,48439,10,87190.2,19167.89,Net Banking,21.98%,9687.8
+10200,Yakshit Tank,30-10-2024,October,2024,Yakshit Tank,North,Delhi,Beauty,Face Cream,Face Cream Necessitatibus,5,50870,20,203480,18437.07,COD,9.06%,50870
+10201,Nishith Bora,11-07-2024,July,2024,Nishith Bora,West,Goa,Clothing,Men's Wear,Men's Wear Quia,1,73982,15,62884.7,6713.01,Debit Card,10.68%,11097.3
+10202,Riya Thaker,03-05-2024,May,2024,Riya Thaker,East,Bhubaneswar,Toys,Board Game,Board Game Ipsa,4,27226,20,87123.2,7321.18,Debit Card,8.40%,21780.8
+10203,Baiju Barman,10-02-2024,February,2024,Baiju Barman,North,Jaipur,Toys,Doll,Doll Soluta,2,39988,5,75977.2,11786.61,COD,15.51%,3998.8
+10204,Damini Kohli,06-09-2025,September,2025,Damini Kohli,West,Surat,Sports,Dumbbells,Dumbbells Unde,4,65084,10,234302.4,21939.1,UPI,9.36%,26033.6
+10205,Hansh Bali,16-05-2025,May,2025,Hansh Bali,East,Guwahati,Groceries,Rice,Rice Odit,2,32591,5,61922.9,11144.15,UPI,18.00%,3259.1
+10206,Stuvan Arora,15-01-2025,January,2025,Stuvan Arora,West,Mumbai,Clothing,Kids Wear,Kids Wear Sed,3,19535,10,52744.5,5396.94,Debit Card,10.23%,5860.5
+10207,Devansh Bhatti,13-05-2024,May,2024,Devansh Bhatti,West,Mumbai,Books,Non-Fiction,Non-Fiction Occaecati,4,22065,10,79434,9292.82,Debit Card,11.70%,8826
+10208,Devansh Bains,14-09-2024,September,2024,Devansh Bains,West,Mumbai,Beauty,Shampoo,Shampoo Provident,2,48559,5,92262.1,6636.68,UPI,7.19%,4855.9
+10209,Dhruv Srinivasan,27-12-2024,December,2024,Dhruv Srinivasan,West,Mumbai,Sports,Cricket Bat,Cricket Bat Minus,3,47479,0,142437,13234.4,Credit Card,9.29%,0
+10210,Chirag Grewal,24-12-2023,December,2023,Chirag Grewal,East,Ranchi,Electronics,Headphones,Headphones Similique,3,62485,5,178082.25,27415.31,Net Banking,15.39%,9372.75
+10211,Kimaya Mallick,16-03-2024,March,2024,Kimaya Mallick,West,Mumbai,Groceries,Spices,Spices Incidunt,5,18762,5,89119.5,6850.32,Credit Card,7.69%,4690.5
+10212,Purab Boase,06-05-2024,May,2024,Purab Boase,South,Bangalore,Electronics,Headphones,Headphones Maiores,5,76126,10,342567,48726.33,COD,14.22%,38063
+10213,Ritvik Suri,20-03-2025,March,2025,Ritvik Suri,West,Surat,Clothing,Women's Wear,Women's Wear Iste,2,60550,10,108990,22383.22,Debit Card,20.54%,12110
+10214,Samarth Sibal,11-01-2024,January,2024,Samarth Sibal,South,Chennai,Groceries,Oil,Oil Sunt,3,42839,5,122091.15,30284.02,COD,24.80%,6425.85
+10215,Ranbir Randhawa,03-03-2024,March,2024,Ranbir Randhawa,South,Bangalore,Furniture,Sofa,Sofa Vel,4,21265,0,85060,4989.48,Net Banking,5.87%,0
+10216,Pihu Srinivasan,17-07-2025,July,2025,Pihu Srinivasan,South,Bangalore,Furniture,Bed,Bed Architecto,3,50927,15,129863.85,11599.47,UPI,8.93%,22917.15
+10217,Hunar Mand,08-03-2025,March,2025,Hunar Mand,East,Patna,Books,Fiction,Fiction Dolorem,4,29195,15,99263,7993.99,UPI,8.05%,17517
+10218,Fateh Shroff,01-12-2024,December,2024,Fateh Shroff,North,Delhi,Sports,Tennis Racket,Tennis Racket Rem,5,39970,20,159880,13769.85,Net Banking,8.61%,39970
+10219,Piya Korpal,07-03-2025,March,2025,Piya Korpal,North,Jaipur,Electronics,Headphones,Headphones Recusandae,4,19169,10,69008.4,15768.95,UPI,22.85%,7667.6
+10220,Dishani Ranganathan,22-11-2024,November,2024,Dishani Ranganathan,South,Coimbatore,Toys,RC Car,RC Car Quam,3,12676,15,32323.8,4419.76,UPI,13.67%,5704.2
+10221,Raunak Krishnamurthy,10-01-2025,January,2025,Raunak Krishnamurthy,West,Pune,Beauty,Shampoo,Shampoo Rem,4,16526,15,56188.4,9406.6,Debit Card,16.74%,9915.6
+10222,Devansh Karnik,03-03-2024,March,2024,Devansh Karnik,South,Coimbatore,Furniture,Chair,Chair Sint,4,4135,15,14059,765.58,Debit Card,5.45%,2481
+10223,Misha Setty,02-10-2024,October,2024,Misha Setty,West,Ahmedabad,Beauty,Lipstick,Lipstick Atque,2,22859,5,43432.1,8765.28,Credit Card,20.18%,2285.9
+10224,Hridaan Karnik,04-09-2025,September,2025,Hridaan Karnik,West,Pune,Books,Non-Fiction,Non-Fiction Porro,2,77443,15,131653.1,24358.19,Net Banking,18.50%,23232.9
+10225,Jayesh Kalita,12-11-2023,November,2023,Jayesh Kalita,West,Pune,Kitchen,Mixer Grinder,Mixer Grinder Aperiam,3,70729,0,212187,12130.56,UPI,5.72%,0
+10226,Madhav Jaggi,14-05-2024,May,2024,Madhav Jaggi,West,Mumbai,Kitchen,Mixer Grinder,Mixer Grinder Placeat,5,57741,0,288705,70358.14,Net Banking,24.37%,0
+10227,Priyansh Gour,18-07-2024,July,2024,Priyansh Gour,North,Chandigarh,Groceries,Rice,Rice Ullam,5,65635,10,295357.5,58308.1,COD,19.74%,32817.5
+10228,Shray Dugar,03-09-2025,September,2025,Shray Dugar,North,Jaipur,Groceries,Spices,Spices Cum,3,17427,10,47052.9,10506.97,Net Banking,22.33%,5228.1
+10229,Rhea Ratti,04-05-2024,May,2024,Rhea Ratti,South,Coimbatore,Clothing,Accessories,Accessories Est,5,41707,10,187681.5,30495.34,Net Banking,16.25%,20853.5
+10230,Akarsh Kala,07-08-2024,August,2024,Akarsh Kala,West,Goa,Kitchen,Cookware Set,Cookware Set Nihil,3,12925,20,31020,2254.01,Net Banking,7.27%,7755
+10231,Neysa Kothari,06-11-2024,November,2024,Neysa Kothari,East,Ranchi,Sports,Cricket Bat,Cricket Bat Ex,4,28451,20,91043.2,17254.47,UPI,18.95%,22760.8
+10232,Shaan Seth,16-02-2024,February,2024,Shaan Seth,North,Amritsar,Home Decor,Wall Art,Wall Art Earum,1,46500,20,37200,7575.46,UPI,20.36%,9300
+10233,Adira Dar,28-11-2024,November,2024,Adira Dar,South,Coimbatore,Home Decor,Clock,Clock Optio,4,73548,20,235353.6,32457.28,UPI,13.79%,58838.4
+10234,Mehul Bose,14-08-2025,August,2025,Mehul Bose,East,Bhubaneswar,Home Decor,Clock,Clock Maiores,3,51697,5,147336.45,21418.07,COD,14.54%,7754.55
+10235,Reyansh Mahajan,17-07-2025,July,2025,Reyansh Mahajan,East,Guwahati,Groceries,Sugar,Sugar Iusto,1,39944,15,33952.4,7336.34,Debit Card,21.61%,5991.6
+10236,Dhruv Bhattacharyya,04-02-2025,February,2025,Dhruv Bhattacharyya,West,Surat,Beauty,Shampoo,Shampoo Libero,4,18454,20,59052.8,3756.64,Debit Card,6.36%,14763.2
+10237,Advika Ramakrishnan,14-12-2024,December,2024,Advika Ramakrishnan,South,Hyderabad,Electronics,Headphones,Headphones Exercitationem,2,30222,0,60444,5067.9,Net Banking,8.38%,0
+10238,Eshani Anand,01-02-2024,February,2024,Eshani Anand,South,Bangalore,Books,Biography,Biography Deleniti,5,7034,15,29894.5,7348.88,COD,24.58%,5275.5
+10239,Vardaniya Borra,15-07-2025,July,2025,Vardaniya Borra,East,Guwahati,Electronics,Headphones,Headphones Doloribus,5,57335,20,229340,28515.03,Net Banking,12.43%,57335
+10240,Misha Batra,26-10-2024,October,2024,Misha Batra,South,Thiruvananthapuram,Clothing,Women's Wear,Women's Wear Delectus,4,9093,10,32734.8,4322.02,COD,13.20%,3637.2
+10241,Vaibhav Kunda,30-10-2023,October,2023,Vaibhav Kunda,East,Bhubaneswar,Kitchen,Juicer,Juicer Sint,2,34565,15,58760.5,13789.31,Credit Card,23.47%,10369.5
+10242,Kimaya Vala,29-12-2023,December,2023,Kimaya Vala,South,Coimbatore,Home Decor,Wall Art,Wall Art Tenetur,5,52040,0,260200,18189.62,COD,6.99%,0
+10243,Onkar Verma,13-02-2025,February,2025,Onkar Verma,East,Kolkata,Electronics,Camera,Camera Minus,2,53365,20,85384,15861.81,Debit Card,18.58%,21346
+10244,Shanaya Bhat,19-09-2024,September,2024,Shanaya Bhat,South,Coimbatore,Sports,Tennis Racket,Tennis Racket Sed,4,15498,0,61992,5890.9,Credit Card,9.50%,0
+10245,Pihu Varghese,30-10-2023,October,2023,Pihu Varghese,West,Goa,Kitchen,Mixer Grinder,Mixer Grinder Aliquam,1,3128,15,2658.8,362.44,UPI,13.63%,469.2
+10246,Zain Sen,31-03-2024,March,2024,Zain Sen,South,Bangalore,Clothing,Men's Wear,Men's Wear Ex,5,23664,15,100572,22121.16,COD,22.00%,17748
+10247,Suhana Ganguly,24-02-2025,February,2025,Suhana Ganguly,South,Thiruvananthapuram,Groceries,Spices,Spices Pariatur,2,28416,10,51148.8,5324.04,Net Banking,10.41%,5683.2
+10248,Manjari Mangal,18-03-2025,March,2025,Manjari Mangal,East,Bhubaneswar,Furniture,Cabinet,Cabinet Nisi,1,59778,15,50811.3,8498.57,Debit Card,16.73%,8966.7
+10249,Yasmin Sekhon,13-06-2024,June,2024,Yasmin Sekhon,East,Ranchi,Electronics,Smartwatch,Smartwatch Tempore,4,31095,15,105723,22061.05,Debit Card,20.87%,18657
+10250,Faiyaz Issac,18-10-2023,October,2023,Faiyaz Issac,East,Kolkata,Furniture,Table,Table Deserunt,2,50258,15,85438.6,10418.46,UPI,12.19%,15077.4
+10251,Darshit Hans,24-09-2024,September,2024,Darshit Hans,West,Pune,Home Decor,Clock,Clock Perferendis,2,60360,5,114684,11743.67,Credit Card,10.24%,6036
+10252,Charvi Shenoy,02-03-2024,March,2024,Charvi Shenoy,North,Lucknow,Toys,Doll,Doll Assumenda,2,63148,5,119981.2,23234.02,COD,19.36%,6314.8
+10253,Khushi Bhalla,21-05-2024,May,2024,Khushi Bhalla,South,Hyderabad,Clothing,Men's Wear,Men's Wear Aliquid,5,57913,0,289565,61458.27,COD,21.22%,0
+10254,Samarth Biswas,16-01-2025,January,2025,Samarth Biswas,West,Goa,Clothing,Women's Wear,Women's Wear Totam,2,58276,10,104896.8,17061.36,COD,16.26%,11655.2
+10255,Badal Mangal,07-11-2023,November,2023,Badal Mangal,East,Ranchi,Home Decor,Cushion,Cushion Ipsum,5,6472,10,29124,7277.61,Debit Card,24.99%,3236
+10256,Nirvi Keer,12-01-2025,January,2025,Nirvi Keer,North,Amritsar,Electronics,Headphones,Headphones Deleniti,3,3517,5,10023.45,1456.11,UPI,14.53%,527.55
+10257,Gatik Comar,28-03-2024,March,2024,Gatik Comar,West,Pune,Groceries,Spices,Spices Reiciendis,3,7479,20,17949.6,2704.4,Net Banking,15.07%,4487.4
+10258,Hazel Hayre,21-10-2024,October,2024,Hazel Hayre,North,Jaipur,Home Decor,Vase,Vase Laboriosam,5,72191,10,324859.5,53183.45,Credit Card,16.37%,36095.5
+10259,Ritvik Mangat,15-12-2024,December,2024,Ritvik Mangat,North,Chandigarh,Clothing,Accessories,Accessories Iure,1,59846,5,56853.7,9759.16,COD,17.17%,2992.3
+10260,Damini Kapur,03-06-2024,June,2024,Damini Kapur,South,Bangalore,Clothing,Women's Wear,Women's Wear Officia,1,59828,5,56836.6,8325.15,Net Banking,14.65%,2991.4
+10261,Tushar Devan,30-08-2025,August,2025,Tushar Devan,South,Coimbatore,Clothing,Women's Wear,Women's Wear Vero,2,27785,0,55570,6793.55,UPI,12.23%,0
+10262,Rohan Iyengar,25-10-2024,October,2024,Rohan Iyengar,East,Patna,Sports,Yoga Mat,Yoga Mat Quibusdam,3,24823,10,67022.1,14626.79,COD,21.82%,7446.9
+10263,Bhavin Tara,22-11-2023,November,2023,Bhavin Tara,North,Jaipur,Toys,Action Figure,Action Figure Beatae,3,50511,10,136379.7,20913.92,COD,15.34%,15153.3
+10264,Drishya Mangal,05-02-2024,February,2024,Drishya Mangal,South,Coimbatore,Kitchen,Juicer,Juicer Voluptate,4,39061,20,124995.2,30886.7,Credit Card,24.71%,31248.8
+10265,Divyansh Bhavsar,07-03-2024,March,2024,Divyansh Bhavsar,East,Kolkata,Kitchen,Cookware Set,Cookware Set Ut,5,30115,10,135517.5,8531.85,UPI,6.30%,15057.5
+10266,Anay Warrior,26-10-2024,October,2024,Anay Warrior,East,Guwahati,Books,Fiction,Fiction Aliquid,1,43894,20,35115.2,4820.48,UPI,13.73%,8778.8
+10267,Khushi Taneja,05-02-2025,February,2025,Khushi Taneja,East,Bhubaneswar,Toys,RC Car,RC Car Ipsum,3,33800,5,96330,11891.6,Net Banking,12.34%,5070
+10268,Siya Chandra,27-03-2025,March,2025,Siya Chandra,North,Chandigarh,Kitchen,Microwave,Microwave Eius,2,9711,10,17479.8,2640.87,Credit Card,15.11%,1942.2
+10269,Taran Vig,20-02-2025,February,2025,Taran Vig,South,Chennai,Toys,Doll,Doll Eius,5,57388,20,229552,51151.3,UPI,22.28%,57388
+10270,Nitya Gopal,09-06-2024,June,2024,Nitya Gopal,South,Thiruvananthapuram,Sports,Yoga Mat,Yoga Mat Consequuntur,4,27669,20,88540.8,16698.92,Net Banking,18.86%,22135.2
+10271,Dishani Chaudhry,29-09-2024,September,2024,Dishani Chaudhry,East,Ranchi,Electronics,Laptop,Laptop Ipsam,2,63300,0,126600,16591.78,Debit Card,13.11%,0
+10272,Advika Grover,02-09-2025,September,2025,Advika Grover,East,Bhubaneswar,Home Decor,Wall Art,Wall Art Neque,4,32197,10,115909.2,27119.3,Credit Card,23.40%,12878.8
+10273,Suhana Rastogi,27-08-2024,August,2024,Suhana Rastogi,East,Bhubaneswar,Toys,RC Car,RC Car Et,4,25239,15,85812.6,9112.69,Debit Card,10.62%,15143.4
+10274,Onkar Rajagopal,16-02-2024,February,2024,Onkar Rajagopal,South,Thiruvananthapuram,Furniture,Cabinet,Cabinet Provident,4,47304,15,160833.6,35806.38,Credit Card,22.26%,28382.4
+10275,Rhea Basak,16-04-2025,April,2025,Rhea Basak,East,Kolkata,Sports,Football,Football Temporibus,2,19112,10,34401.6,6928.02,Debit Card,20.14%,3822.4
+10276,Anya Sha,14-04-2024,April,2024,Anya Sha,South,Coimbatore,Electronics,Mobile,Mobile Laudantium,5,890,20,3560,448.45,UPI,12.60%,890
+10277,Alia Ravi,10-04-2024,April,2024,Alia Ravi,North,Lucknow,Beauty,Foundation,Foundation Doloremque,4,62321,5,236819.8,40372.4,COD,17.05%,12464.2
+10278,Tarini Shukla,22-04-2025,April,2025,Tarini Shukla,West,Surat,Clothing,Women's Wear,Women's Wear Consequuntur,5,31545,5,149838.75,36850.09,Credit Card,24.59%,7886.25
+10279,Aarush Kaur,27-09-2024,September,2024,Aarush Kaur,South,Thiruvananthapuram,Beauty,Lipstick,Lipstick Debitis,1,77022,5,73170.9,10033.02,COD,13.71%,3851.1
+10280,Uthkarsh Dara,06-02-2024,February,2024,Uthkarsh Dara,East,Guwahati,Groceries,Oil,Oil Sit,5,31480,10,141660,22581.15,Debit Card,15.94%,15740
+10281,Samiha Dutta,17-08-2025,August,2025,Samiha Dutta,East,Patna,Sports,Dumbbells,Dumbbells Assumenda,3,77903,15,198652.65,24667.96,UPI,12.42%,35056.35
+10282,Mahika Divan,25-08-2024,August,2024,Mahika Divan,East,Ranchi,Sports,Football,Football Distinctio,4,43141,10,155307.6,29994.41,COD,19.31%,17256.4
+10283,Vidur Sharaf,30-06-2025,June,2025,Vidur Sharaf,East,Patna,Toys,Board Game,Board Game A,2,41901,5,79611.9,8137.53,Debit Card,10.22%,4190.1
+10284,Purab Seshadri,10-05-2025,May,2025,Purab Seshadri,South,Bangalore,Beauty,Foundation,Foundation Necessitatibus,5,74119,10,333535.5,29686.68,Credit Card,8.90%,37059.5
+10285,Vanya Sur,05-08-2025,August,2025,Vanya Sur,South,Hyderabad,Furniture,Cabinet,Cabinet Ratione,1,45039,0,45039,5713.33,Net Banking,12.69%,0
+10286,Rati Goyal,14-02-2024,February,2024,Rati Goyal,West,Mumbai,Kitchen,Microwave,Microwave Ea,3,23107,10,62388.9,14441.15,Credit Card,23.15%,6932.1
+10287,Anay Goswami,23-07-2025,July,2025,Anay Goswami,North,Jaipur,Electronics,Mobile,Mobile Beatae,1,19031,5,18079.45,3429.94,Credit Card,18.97%,951.55
+10288,Anika Deol,09-03-2025,March,2025,Anika Deol,East,Patna,Home Decor,Vase,Vase Exercitationem,5,6383,5,30319.25,6663.92,COD,21.98%,1595.75
+10289,Sahil Saxena,30-03-2024,March,2024,Sahil Saxena,North,Jaipur,Electronics,Camera,Camera Quasi,4,19136,10,68889.6,11105.93,Debit Card,16.12%,7654.4
+10290,Rhea Rajagopalan,23-06-2025,June,2025,Rhea Rajagopalan,West,Ahmedabad,Electronics,Camera,Camera Atque,1,24046,20,19236.8,1484.91,Net Banking,7.72%,4809.2
+10291,Zaina Bassi,20-04-2025,April,2025,Zaina Bassi,South,Coimbatore,Beauty,Shampoo,Shampoo Nulla,5,52962,15,225088.5,19501.98,Credit Card,8.66%,39721.5
+10292,Ishita Shroff,16-07-2024,July,2024,Ishita Shroff,South,Bangalore,Furniture,Sofa,Sofa Dolorum,4,697,20,2230.4,407.92,Credit Card,18.29%,557.6
+10293,Kabir Dubey,16-10-2023,October,2023,Kabir Dubey,West,Goa,Beauty,Foundation,Foundation Officia,4,64428,0,257712,26012.11,Net Banking,10.09%,0
+10294,Zoya Gera,10-05-2025,May,2025,Zoya Gera,South,Hyderabad,Beauty,Shampoo,Shampoo Saepe,1,15196,5,14436.2,906.84,COD,6.28%,759.8
+10295,Shalv Lad,05-11-2023,November,2023,Shalv Lad,North,Delhi,Furniture,Chair,Chair Assumenda,2,78645,5,149425.5,16809.48,Debit Card,11.25%,7864.5
+10296,Kaira Sinha,03-06-2024,June,2024,Kaira Sinha,South,Bangalore,Clothing,Accessories,Accessories Perspiciatis,4,66392,0,265568,59731.79,UPI,22.49%,0
+10297,Aaina Gala,09-06-2024,June,2024,Aaina Gala,East,Patna,Home Decor,Lamp,Lamp Ex,3,53780,5,153273,15727.77,Net Banking,10.26%,8067
+10298,Pari Vohra,17-09-2025,September,2025,Pari Vohra,North,Lucknow,Books,Fiction,Fiction Rem,5,27298,15,116016.5,26646.97,Credit Card,22.97%,20473.5
+10299,Lagan Kala,03-01-2024,January,2024,Lagan Kala,South,Thiruvananthapuram,Books,Textbook,Textbook Alias,1,72532,5,68905.4,5338.34,Net Banking,7.75%,3626.6
+10300,Keya Borah,14-09-2024,September,2024,Keya Borah,North,Lucknow,Electronics,Camera,Camera Placeat,5,32758,5,155600.5,33651.01,Net Banking,21.63%,8189.5
