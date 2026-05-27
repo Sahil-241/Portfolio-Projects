@@ -1,0 +1,21 @@
+EmployeeID,Name,City,Domain,ExperienceYears,MonthlySalary,Remote,Bonus,Total_Compensation
+1,Riya,Hyderabad,Web Dev,5,93989,Yes,2000,95989
+2,Aditya,Bangalore,Web Dev,4,30662,Yes,1500,32162
+3,Kabir,hyderabad,App Dev,4,30015,Yes,1500,31515
+4,Priya,Bangalore,AI,4,55523,No,1500,57023
+5,Priya,Chennai,Cloud,2,70568,No,0,70568
+6,Sneha,Bangalore,AI,5,58302,No,2000,60302
+7,Nikita,Bangalore,AI,2,70824,No,0,70824
+8,Rahul,Delhi,Cloud,5,39607,No,2000,41607
+9,Pooja,Lucknow,AI,5,48462,No,2000,50462
+10,Meera,Lucknow,Cyber Security,5,97756,Yes,2000,99756
+11,Nikita,Delhi,Cyber Security,4,69455,No,1500,70955
+12,Aman,Hyderabad,App Dev,1,104537,Yes,0,104537
+13,Arjun,Lucknow,Data Science,2,62960,Yes,0,62960
+14,Aman,Bangalore,App Dev,5,94314,Yes,2000,96314
+15,Rahul,Bangalore,Cyber Security,5,104590,Yes,2000,106590
+16,Sneha,Lucknow,App Dev,3,91663,No,1000,92663
+17,Sneha,Pune,Cloud,5,84412,Yes,2000,86412
+18,Yash,Mumbai,AI,5,99130,No,2000,101130
+19,Vikas,Lucknow,Web Dev,1,96420,No,0,96420
+20,Neha,Kanpur,Cyber Security,1,50997,Yes,0,50997
