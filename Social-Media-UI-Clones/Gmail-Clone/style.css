@@ -1,0 +1,23 @@
+*{ margin:0; padding:0; box-sizing:border-box; font-family: 'Roboto', arial, sans-serif; }
+body {
+    background-color: #fff; display: flex; justify-content: center; align-items: center; height: 100vh;
+}
+.gmail-box {
+    width: 450px; padding: 40px; border: 1px solid #dadce0; border-radius: 8px; text-align: center;
+}
+.google-logo { font-size: 24px; font-weight: bold; margin-bottom: 16px; font-family: sans-serif; }
+.gmail-box h1 { font-size: 24px; font-weight: 400; color: #202124; margin-bottom: 6px; }
+.subtitle { color: #202124; font-size: 16px; margin-bottom: 30px; }
+.gmail-box input {
+    width: 100%; padding: 16px; margin-bottom: 16px;
+    border: 1px solid #dadce0; border-radius: 4px; font-size: 16px; color: #202124;
+}
+.gmail-box input:focus { border-color: #1a73e8; outline: none; }
+.links-row { text-align: left; margin-bottom: 30px; }
+.blue-link { color: #1a73e8; text-decoration: none; font-size: 14px; font-weight: 500; }
+.footer-buttons { display: flex; justify-content: space-between; align-items: center; }
+.next-btn {
+    background-color: #1a73e8; color: white; border: none; padding: 10px 24px;
+    border-radius: 4px; font-size: 14px; font-weight: 500; cursor: pointer;
+}
+.next-btn:hover { background-color: #1557b0; }

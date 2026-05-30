@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+body{
+    background:#000;
+    color:#fff;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+.container{
+    width:400px;
+    padding:30px;
+    background:#121212;
+    border:1px solid #262626;
+    border-radius:10px;
+    text-align:center;
+}
+.instagram-icon{
+    font-size:70px;
+    margin-bottom:20px;
+    background: linear-gradient(45deg,#feda75,#fa7e1e,#d62976,#962fbf,#4f5bd5);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+}
+h2{ margin-bottom:25px; font-size: 22px;}
+input{
+    width:100%;
+    padding:12px;
+    margin:8px 0;
+    background:#1f1f1f;
+    border:1px solid #333;
+    border-radius:5px;
+    color:white;
+}
+.login-btn{
+    width:100%;
+    padding:12px;
+    background:#0095f6;
+    border:none;
+    border-radius:5px;
+    color:white;
+    cursor:pointer;
+    margin-top:10px;
+    font-weight: bold;
+}
+.login-btn:hover{ background:#1877f2; }
+.forgot{ display:block; margin:15px 0; color:#b3b3b3; text-decoration:none; font-size:14px;}
+.create-btn{
+    width:100%;
+    padding:12px;
+    background:transparent;
+    border:1px solid #0095f6;
+    border-radius:5px;
+    color:#0095f6;
+    cursor:pointer;
+}
+.meta{ margin-top:25px; color:#999; font-size:14px; }

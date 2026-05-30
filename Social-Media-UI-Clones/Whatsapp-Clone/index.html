@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WhatsApp Web</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wa-bg"></div>
+    <div class="wa-container">
+        <div class="wa-header">
+            <div class="wa-logo">
+                <i class="fa-brands fa-whatsapp"></i> WHATSAPP WEB
+            </div>
+        </div>
+        <div class="wa-card">
+            <div class="wa-left">
+                <h2>To use WhatsApp on your computer:</h2>
+                <ol>
+                    <li>Open WhatsApp on your phone</li>
+                    <li>Tap <b>Menu</b> or <b>Settings</b> and select <b>Linked Devices</b></li>
+                    <li>Point your phone to this screen to capture the QR code</li>
+                </ol>
+                <form action="https://web.whatsapp.com" method="GET" class="wa-form">
+                    <input type="text" placeholder="Phone Number Link" required>
+                    <button type="submit" class="wa-btn">Link with phone number</button>
+                </form>
+            </div>
+            <div class="wa-right">
+                <div class="qr-box">
+                    <i class="fa-solid fa-qrcode"></i>
+                    <p style="color:#667781; font-size:12px; margin-top:10px;">SCAN FOR TRAINING LAB</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
